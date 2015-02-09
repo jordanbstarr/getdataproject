@@ -1,7 +1,5 @@
----
-title: "Codebook"
-output: html_document
----
+#Codebook
+
 ##Data
 The data for this analysis is from experiments carried out on a group of 30 volunteers. Each person performed six activities while wearing a Samsung Galaxy S II on his or her waist: walking, walking upstairs, walking downstairs, sitting, standing, and laying. Using the phone's accelerometer and gyroscope, the experiment captured 3-axial linear acceleration and 3-axial angular velocity data. The initial dataset was randomly partitioned into two sets, where 70% of the volunteers were selected for generating the training data and the rest generated the test data.
 

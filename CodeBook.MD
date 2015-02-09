@@ -13,8 +13,8 @@ The data for this analysis is from experiments carried out on a group of 30 volu
 ##Variables
 
 ####First Letter
-* t = time-domain acceleration measurement 
-* f = frequency-domain acceleration measurement derived with Fast Fourier Transformation
+* t = time-domain acceleration measurement (m/s^2)
+* f = frequency-domain acceleration measurement derived with Fast Fourier Transformation (Hz)
 
 ####Words
 * body = body acceleration measurement
